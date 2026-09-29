@@ -1,5 +1,5 @@
 import random
-
+//изменения
 temp = random.randint(-10, 35)
 wind = random.randint(0, 15)
 
